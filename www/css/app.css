@@ -1,0 +1,14 @@
+/* Your app custom styles here */
+#contenedor{
+	background-color: #223A40;
+}
+.selectores{
+	background-color: #8C6980;
+}
+.colorfuente{
+color:white;
+}
+#desc_t, #desc_m {
+	white-space: normal;
+}
+
